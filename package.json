@@ -1,0 +1,27 @@
+{
+  "name": "ot-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otjs/ot-client.git"
+  },
+  "author": "luin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otjs/ot-client/issues"
+  },
+  "homepage": "https://github.com/otjs/ot-client",
+  "dependencies": {
+    "adiff": "^0.2.13",
+    "iojs": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}

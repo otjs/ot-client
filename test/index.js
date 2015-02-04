@@ -1,23 +1,3 @@
-# ot-client
-=======
-
-A line-based implementation of Operational Transform in JavaScript
-
-
-![Build Status](https://travis-ci.org/otjs/ot-client.svg?branch=master)
-[![Dependency Status](https://david-dm.org/otjs/ot-client.svg)](https://david-dm.org/otjs/ot-client)
-
-Install
--------
-
-```shell
-npm install ot-client
-```
-
-Usage
------
-
-```javascript
 var diff = require('..').diff;
 var expect = require('chai').expect;
 
@@ -47,4 +27,3 @@ var tests = [
     ]
   ]
 ];
-```
